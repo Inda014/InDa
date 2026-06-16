@@ -1,0 +1,8 @@
+{
+  "name": "Student Record Management System",
+  "description": "A comprehensive, high-contrast dashboard for managing student records, featuring SQLite storage, search, filter, pagination, edit history, CSV export, and complete field validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
